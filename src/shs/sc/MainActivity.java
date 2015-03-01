@@ -30,7 +30,8 @@ import android.widget.Toast;
 
 
 public class MainActivity extends ActionBarActivity {
-	
+	//test
+	public static int test;
 	public static Context context;
 	
 	private LinearLayout main;
